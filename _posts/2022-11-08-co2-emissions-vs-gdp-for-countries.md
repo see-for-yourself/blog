@@ -16,10 +16,10 @@ With the plots in log-log scales, the result can be interpreted as for each 1% i
 
 Since a number of developing countries have large populations (although the birthrate may fall as a country becomes more wealthy), economic development in a sustainable way will be important to meet climate targets.
 
-![Image 1](/patrick_blog/assets/images/climate-change/gdp_fit_loglog_country_CO2_GDP_2020_bands_2211v3.png)  
+![Image 1](/blog/assets/images/climate-change/gdp_fit_loglog_country_CO2_GDP_2020_bands_2211v3.png)  
 Image 1: Slope: Median = 0.63, Std. Error = 0.03. Residual standard error = 0.44. p-value: < 2.2e-16. Data Sources [1-2]
 
-![Image 2](/patrick_blog/assets/images/climate-change/gdp_fit_loglog_country_CO2_GDP_2020_2211v3.png)  
+![Image 2](/blog/assets/images/climate-change/gdp_fit_loglog_country_CO2_GDP_2020_2211v3.png)  
 Image 2: Slope: Median = 0.63, MAD_SD = 0.03. Sigma: Median = 0.44, MAD_SD = 0.02 . Data Sources [1-2]
 
 ## References
