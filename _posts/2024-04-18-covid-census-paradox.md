@@ -4,14 +4,14 @@ title:  "A Statistical Paradox: Covid-19 and Census Data for CA Counties"
 date:   2024-04-18
 categories: covid-19
 ---
-_Updated: 2024-06-04_
+_Updated: 2024-06-06_
 
 A recent news article [1] reported on some differences in death rates of older people and of racial groups in California. This hints at possible reasons for the counterintuitive _downward_ slopes in following plots of Covid-19 cases and deaths per capita against the percentage of people over age 65 for California counties. The _negative_ correlation seems to contradict the established knowledge that older people are at higher risk of Covid-19.
 
 ![Image 1](/blog/assets/images/covid-19/Rplot_cases_v_age-65-over_u-bands-c_2x2_850x450_v01-f.png)  
 Data Sources: [2], [3].  
 
-Whether or not you have come across this kind of statistical paradox before – also known as Robinson's Paradox – it is interesting to think about what is specifically happening here in CA counties with the demographics and health disparities concerning race and poverty that may be involved. As reported in the news article [1], the Latino population is younger and has lower Covid-19 risk, but Latinos have higher death rates (early in the pandemic) than Whites. So if a county has a larger percentage of old people and a smaller percentage of Latinos, it may have a _lower_ death per capita than a county with smaller percentage of old people and a larger percentage of Latinos. In order to check this, one would need the breakdown of the number of deaths by race in each county, which is not provided by the Johns Hopkins dataset [2].
+Whether or not you have come across this kind of statistical paradox before – also known as Robinson's Paradox – it is interesting to think about what is specifically happening here in CA counties with the demographics and health disparities concerning race and poverty that may be involved. As reported in the news article [1], the Latino population is younger but has higher death rate (early in the pandemic) than Whites. So if a county has a larger percentage of old people and a smaller percentage of Latinos, it may have a _lower_ death per capita than a county with smaller percentage of old people and a larger percentage of Latinos. In order to check this, one would need the breakdown of the number of deaths by race in each county, which is not provided by the Johns Hopkins dataset [2].
 
 ---
 
