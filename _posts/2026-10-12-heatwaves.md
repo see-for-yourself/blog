@@ -30,7 +30,7 @@ For some other places in the world that are known to be hot, such as Khartoum in
 
 We can also visualize the hottest 100 days for each place using the same data as above, and mark (in red) which of those days belong to heatwaves. See Images 3 and 4. The red circles are concentrated on the right side of the plots, and the pattern is clear that in these cities in the Southwest US and Southern Europe, there are increasingly more hottest-100 days that are part of a heatwave.
 
-![Image 3](/blog/assets/images/climate-change/plot-3x1_Austin-LasVegas-Phoenix_1933-2026_Hottest-100_dark_v02-c.png)  
+![Image 3](/blog/assets/images/climate-change/plot-3x1_Austin-LasVegas-Phoenix_1933-2026_hottest-100_dark_v02-c.png)  
 _Image 3: Baseline period 1961-1990. Data Source: NOAA [1]_
 
 ![Image 4](/blog/assets/images/climate-change/plot-3x1_Athens-Madrid-Rome_1933-2026_hottest-100_dark_v02-c.png)  
